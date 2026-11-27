@@ -1,4 +1,4 @@
 AnsiEsc.h for C++
 AnsiEsc.py for Python
 
-also use std::flush for C++ and sys.stdout.flush() for python after curs_move and curs_move_acc
+Use flush after these codes so that the terminal reads them.
